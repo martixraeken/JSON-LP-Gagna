@@ -1,6 +1,6 @@
 # Trabajo Final: Estándar JSON
-**Materia:** Laboratorio de Programación - UNPA UARG
-**Alumna:** Martina Gagna
+- **Materia:** Laboratorio de Programación - UNPA UARG
+- **Alumna:** Martina Gagna
 
 ## Descripción
 Este repositorio contiene los ejemplos prácticos desarrollados para el informe final sobre el estándar JSON
