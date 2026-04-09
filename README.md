@@ -1,18 +1,13 @@
-## Getting Started
+# Trabajo Final: Estándar JSON
+**Materia:** Laboratorio de Programación - UNPA UARG
+**Alumna:** Martina Gagna
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descripción
+Este repositorio contiene los ejemplos prácticos desarrollados para el informe final sobre el estándar JSON
 
-## Folder Structure
+## Requisitos
+Para ejecutar el código Java, se requiere incluir en el Classpath la librería `json-simple-1.1.1.jar` incluida en la carpeta `/lib`.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Contenido
+- `EjemploBasico.java`: Creación manual de un JSONObject.
+- `Ejemplo2.java`: Programa interactivo con menú y JSONArray.
